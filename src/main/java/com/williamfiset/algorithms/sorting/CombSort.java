@@ -1,7 +1,5 @@
 package com.williamfiset.algorithms.sorting;
 
-// Implementation of CombSort in Java - improvement of Bubble Sort
-// Concept of Comb Sort: https://www.geeksforgeeks.org/comb-sort/?ref=rp
 public class CombSort implements InplaceSort {
 
 	 @Override
